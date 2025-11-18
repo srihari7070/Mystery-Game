@@ -44,24 +44,6 @@
 
 ---
 
-<details>
-<summary>🔍 Click here to reveal the solution (spoiler alert!)</summary>
-
-### ✅ **SOLUTION:**
-
-**Location:** **PC4** (the 4th demonstration computer)
-
-**Password:** **VIDEO** (decrypted from W.J.E.F.P using Caesar cipher shift -1)
-
-### 🕵️ **How to solve:**
-1. **Physical Evidence:** Red screwdriver left in vault points to professional theft
-2. **Performance Anomaly:** PC #4 shows 6x faster AI training (8.2 min vs ~47 min)
-3. **Encrypted Note:** W.J.E.F.P → shift each letter back 1 → V.I.D.E.O
-
-The thief swapped the RTX 9090 into demo PC #4 and used software spoofing to make it appear as a regular RTX 4080. Hidden in plain sight!
-
-</details>
-
 ---
 
 **🎮 Ready to Start Your Investigation?**
