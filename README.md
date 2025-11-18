@@ -8,7 +8,7 @@
 
 ## 🚀 How to Play
 
-1. **Read the case:** Start with the [Police Report](./evidence/police-report.md)
+1. **Read the case:** Start with the [Police Report](./case-files/police-report.md)
 2. **Follow the clues:** Examine each piece of evidence carefully  
 3. **Solve the mystery:** Find the GPU location and access password
 
