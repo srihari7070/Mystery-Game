@@ -22,8 +22,8 @@
 **[🔍 SUBMIT YOUR ANSWERS HERE](https://docs.google.com/forms/d/e/1FAIpQLScrIz3KwlFICDQfHedFeZ9ZKXWhwCnvnXbRx5Iy-l74szUnTA/viewform?usp=header)**
 
 ### 📝 What you'll need to submit:
-- **Location:** Where is the GPU hidden? (exactly 3 characters)
-- **Password:** What's the access code? (exactly 5 characters)
+- **Location:** Where is the GPU hidden? 
+- **Password:** What's the access code? 
 
 **💡 Hint:** Look for physical evidence left behind, check for performance anomalies, and decrypt any coded messages you find.
 
