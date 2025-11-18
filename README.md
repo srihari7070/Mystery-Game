@@ -31,14 +31,15 @@
 
 ## 📊 Detective Leaderboard
 <!-- STATS START -->
-**🕵️ Total Detectives:** 0  
-**✅ Success Rate:** 0%  
-**🎯 Average Attempts:** N/A  
-**⚡ Most Common Wrong Location:** N/A  
-**🔐 Most Common Wrong Password:** N/A  
+**🕵️ Total Detectives:** 2  
+**✅ Success Rate:** 0.0%  
+**🎯 Location Accuracy:** 0/2  
+**🔐 Password Accuracy:** 0/2  
+**⚡ Most Common Wrong Location:**   
+**🔑 Most Common Wrong Password:**   
 **🏆 Latest Solver:** None yet  
 
-*Stats updated daily via GitHub Actions*
+*Stats updated: 2025-11-18 11:20 UTC*
 <!-- STATS END -->
 
 ---
