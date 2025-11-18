@@ -31,15 +31,15 @@
 
 ## 📊 Detective Leaderboard
 <!-- STATS START -->
-**🕵️ Total Detectives:** 2  
+**🕵️ Total Detectives:** 3  
 **✅ Success Rate:** 0.0%  
-**🎯 Location Accuracy:** 0/2  
-**🔐 Password Accuracy:** 0/2  
+**🎯 Location Accuracy:** 0/3  
+**🔐 Password Accuracy:** 0/3  
 **⚡ Most Common Wrong Location:**   
 **🔑 Most Common Wrong Password:**   
 **🏆 Latest Solver:** None yet  
 
-*Stats updated: 2025-11-18 11:20 UTC*
+*Stats updated: 2025-11-18 11:23 UTC*
 <!-- STATS END -->
 
 ---
