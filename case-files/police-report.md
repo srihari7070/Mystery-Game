@@ -29,7 +29,7 @@ CCTV review of 6+ hours of footage shows no unauthorized personnel entering the 
 
 ---
 
-**Continue Investigation:** [Clue #1 - Physical Evidence](./clue1.md) | [Clue #2 - Performance Anomaly](./clue2.md) | [Clue #3 - Encrypted Note](./clue3.md)
+**Continue Investigation:** [Clue #1 - Physical Evidence](./clue1.png) | [Clue #2 - Performance Anomaly](./clue2.png) | [Clue #3 - Encrypted Note](./clue3.png)
 
 ---
 
