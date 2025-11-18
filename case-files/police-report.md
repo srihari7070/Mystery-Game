@@ -14,7 +14,7 @@
 
 ## INCIDENT SUMMARY
 
-At approximately 20:45, TechCorp security discovered the theft of an NVIDIA RTX 9090 TITAN ULTRA prototype GPU valued at $2.5 million during their evening security check. The device was stolen from a biometric-secured vault during the annual TechCorp Innovation Auction. The theft occurred between 18:30 (when the vault was sealed after final demonstration) and 20:45 (discovery time). All 200+ auction attendees and 50+ staff members remain detained in the building under lockdown protocol.
+At approximately 20:45, TechCorp security discovered the theft of a TITAN ULTRA prototype GPU valued at $2.5 million during their evening security check. The device was stolen from a biometric-secured vault during the annual TechCorp Innovation Auction. The theft occurred between 18:30 (when the vault was sealed after final demonstration) and 20:45 (discovery time). All 200+ auction attendees and 50+ staff members remain detained in the building under lockdown protocol.
 
 ## INITIAL INVESTIGATION FINDINGS
 
